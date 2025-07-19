@@ -60,3 +60,17 @@ Patient satisfaction in Orthopedics dropped notably after July 2024, potentially
 
 ### Coverage Gaps:
 Over 10% of patients are uninsured, while private insurers cover ~40% — indicating financial accessibility challenges.
+
+## Insights:
+
+### Chronic Care Gaps
+High readmission rates for diabetic patients point to a need for better post-discharge education and remote monitoring to prevent avoidable returns.
+
+### Departmental Load Patterns
+Monthly spikes in departments like Cardiology and Pediatrics indicate predictable seasonal surges, providing opportunities for proactive staff and resource planning.
+
+### Satisfaction Decline Signals
+The drop in satisfaction within Orthopedics aligns with higher visit volumes, suggesting the need for process and service quality improvements.
+
+### Insurance Access Gaps
+A considerable portion of patients lack adequate coverage. Expanding financial aid and insurance partnerships could enhance access and improve financial outcomes.
