@@ -34,11 +34,11 @@ This simulated dataset offers a secure, realistic platform for performing deep h
 ### Dashboard Preview
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev1.png)
-![Power BI Dashboard](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev2.png)
-![Power BI Dashboard](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev3.png)
-![Power BI Dashboard](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev4.png)
-![Power BI Dashboard](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev5.png)
+![Power BI Dashboard1](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev1.png)
+![Power BI Dashboard2](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev2.png)
+![Power BI Dashboard3](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev3.png)
+![Power BI Dashboard4](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev4.png)
+![Power BI Dashboard5](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev5.png)
 
 
 
