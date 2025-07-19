@@ -32,7 +32,8 @@ Readmission Info: Indicators of patient readmissions
 This simulated dataset offers a secure, realistic platform for performing deep healthcare analytics without the risks of using real-world clinical data.
 
 ### Dashboard Preview
-     ![Power BI Dashboard](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev1.png)
+     ![Test Image](https://via.placeholder.com/600x300.png?text=Dashboard+Preview)
+
 
      
      
