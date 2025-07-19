@@ -32,7 +32,7 @@ Readmission Info: Indicators of patient readmissions
 This simulated dataset offers a secure, realistic platform for performing deep healthcare analytics without the risks of using real-world clinical data.
 
 ### Dashboard Preview
-     ![Test Image](https://via.placeholder.com/600x300.png?text=Dashboard+Preview)
+![Test Image](https://via.placeholder.com/600x300.png?text=Dashboard+Preview)
 
 
      
