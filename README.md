@@ -31,8 +31,8 @@ Readmission Info: Indicators of patient readmissions
 
 This simulated dataset offers a secure, realistic platform for performing deep healthcare analytics without the risks of using real-world clinical data.
 
-### Dashboard Preview
-## 📊 Dashboard Preview
+## Dashboard Preview
+### 📊 Dashboard Preview
 
 ![Power BI Dashboard1](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev1.png)
 ![Power BI Dashboard2](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev2.png)
@@ -40,7 +40,23 @@ This simulated dataset offers a secure, realistic platform for performing deep h
 ![Power BI Dashboard4](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev4.png)
 ![Power BI Dashboard5](https://github.com/TayalKirti701/InsightRx/raw/main/Images/dashboard_prev5.png)
 
+## Summary of findings
 
+### Trends & Metrics
 
+#### High Diabetes Readmission:
+Nearly 1 in 3 adult diabetes patients (ICD-10: E11.9) are readmitted within 60 days,  highlighting a key target group for post-discharge support.
+
+#### Top Revenue Departments:
+Orthopedics and the Emergency Room generate the highest per-patient revenue, especially   among senior and adult groups
+
+#### Seasonal Demand Patterns:
+Departments such as Cardiology, Oncology, and Pediatrics experience peaks during March, June, July, and February, suggesting strategic resourcing opportunities.
      
-     
+## Challenges:
+
+### Satisfaction Decline in Orthopedics:
+Patient satisfaction in Orthopedics dropped notably after July 2024, potentially due to overcapacity and operational strain.
+
+### Coverage Gaps:
+Over 10% of patients are uninsured, while private insurers cover ~40% — indicating financial accessibility challenges.
